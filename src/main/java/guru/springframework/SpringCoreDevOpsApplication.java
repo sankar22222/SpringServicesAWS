@@ -8,6 +8,6 @@ public class SpringCoreDevOpsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
-		//comments newly added
+		//comments newly added 1
 	}
 }
